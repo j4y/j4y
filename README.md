@@ -1,5 +1,1 @@
-[![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=round&logo=Github&logoColor=white)](https://gist.github.com/j4y)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=round&logo=Github&logoColor=white)](https://github.com/j4y)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=round&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-prall/)
-[![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=round&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/56083/jay-prall)
-[![Duolingo Badge](https://img.shields.io/badge/Duolingo-58CC02?style=round&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/JayJoseP)
+ ![](https://komarev.com/ghpvc/?username=j4y&color=grey)
